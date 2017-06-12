@@ -16,8 +16,5 @@
       "es2016",
       "dom"
     ]
-  },
-  "files" : [
-    "typings/EventSource.d.ts"
-  ]
+  }
 }
