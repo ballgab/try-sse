@@ -1,6 +1,6 @@
 import { browser, by, element } from 'protractor';
 
-export class PrebootDemoPage {
+export class Ng4UniversalTemplatePage {
   navigateTo() {
     return browser.get('/');
   }
